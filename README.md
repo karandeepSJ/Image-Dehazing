@@ -18,9 +18,9 @@ python demo.py <path_to_input_image>
 ```
 
 ## Datasets
-You can find the dataset of images we used here : [https://drive.google.com/open?id=18jiujN5DgcNLhS6T3dMcl8Zvjk99byBV]()
+You can find the dataset of images we used here : [https://drive.google.com/open?id=18jiujN5DgcNLhS6T3dMcl8Zvjk99byBV](https://drive.google.com/open?id=18jiujN5DgcNLhS6T3dMcl8Zvjk99byBV)
 
-The corresponding outputs for the dataset are available here: [https://drive.google.com/open?id=1HQeDga32sK2HLvRUUX49WmHJfEyAf1fK]()
+The corresponding outputs for the dataset are available here: [https://drive.google.com/open?id=1HQeDga32sK2HLvRUUX49WmHJfEyAf1fK](https://drive.google.com/open?id=18jiujN5DgcNLhS6T3dMcl8Zvjk99byBV)
 
 ## Samples
 ![](https://lh5.googleusercontent.com/4-TeJ366jIkp2lLf2SJE3y3X4ZgPq0_olPqxZGeiDsHMiN03yjim8gLTe-1pgfCVotsuD1ndqDs9fP1TMxE=w1855-h982)
