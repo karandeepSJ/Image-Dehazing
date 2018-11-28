@@ -23,12 +23,13 @@ You can find the dataset of images we used here : [https://drive.google.com/open
 The corresponding outputs for the dataset are available here: [https://drive.google.com/open?id=1HQeDga32sK2HLvRUUX49WmHJfEyAf1fK](https://drive.google.com/open?id=18jiujN5DgcNLhS6T3dMcl8Zvjk99byBV)
 
 ## Samples
-![](https://lh5.googleusercontent.com/4-TeJ366jIkp2lLf2SJE3y3X4ZgPq0_olPqxZGeiDsHMiN03yjim8gLTe-1pgfCVotsuD1ndqDs9fP1TMxE=w1855-h982)
+![](https://lh4.googleusercontent.com/6Dbp2NgLLgfgGeCP8nb5JdnRG4FIuVfQFrUhciloaPINIOl8jNbnlXI_bqtklE7rydHSt4XS_Df1fQeMI88=w1855-h982)
 
-![](https://lh5.googleusercontent.com/x7IJ4Qo4MVz333vxY67Wk6H5B7SX-Vfi5oQwDzBsYTcS67Jg_RgsMaql7NxeR2vwEwEhvmQtwLJLYRUKWX0=w1855-h982)
+![](https://lh3.googleusercontent.com/NGDEZHcLlm9DcmSK-Z9vY1RVf81uyldbmXPTi7yhR5iG29DU1ep9pufgcekK-U4e5vthqen8MBTdOOsoGCQ=w1855-h982)
 
-![](https://lh3.googleusercontent.com/bxOs_Y5upoHqV9g9BKi79JRnOIcYy7jaZi4IXN2Wr95vBmlBjz8wpvwQ72bAjulPgdiIUHb4uQvMxq-iCwc=w1855-h982)
+![](https://lh4.googleusercontent.com/hCHZ4-t8EyxH3bbzeA4LhPBzFMOUcj65Hv3oTaUM1tsbnkyLpJ6ZHKuZ86y1u9ZSsTBZacti2iTzgyuR8RY=w1855-h982)
 
-![](https://lh3.googleusercontent.com/yE7H6UM6HRFiJZcSJ2T6zKwhqkx-EiiLvFgxm2lyHF--AhgTp3FZeCPjbLzrtcbwkPylbds5ff59QbA8HeY=w1855-h982)
+![](https://lh3.googleusercontent.com/NgeQqgAEG2_09qglxof0xTQ39CBI14cV1trb-HliH4ooxjxJZS4QbFKmVAMg46NrZBbEKdDRRk0MSP3DJC8=w1855-h982)
 
-![](https://lh5.googleusercontent.com/dGoi2Eg8ts_9BHuKbgLlWF2vhI9cIiUzr9MNfhtKo_jj9nwVF2nerPGRmNCu7vnl6Fk2wWqrdWwsx554XHM=w1855-h982)
+![](https://lh3.googleusercontent.com/nSY0K3d0lC7fVQxOCUMJ0bNHN7iwFb6uM_Izz-9RexNbOskWJXL4az3QOLNGnAAmTfQCD1rpYT8qFjHwmSg=w1855-h982)
+
